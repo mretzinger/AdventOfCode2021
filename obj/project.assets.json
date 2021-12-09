@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Margaret Landefeld\\MyProjects\\AdventOfCode2021\\AdventOfCode\\AdventOfCode.csproj",
+      "projectUniqueName": "C:\\Users\\Margaret Landefeld\\MyProjects\\AdventOfCode2021\\AdventOfCode.csproj",
       "projectName": "AdventOfCode",
-      "projectPath": "C:\\Users\\Margaret Landefeld\\MyProjects\\AdventOfCode2021\\AdventOfCode\\AdventOfCode.csproj",
+      "projectPath": "C:\\Users\\Margaret Landefeld\\MyProjects\\AdventOfCode2021\\AdventOfCode.csproj",
       "packagesPath": "C:\\Users\\Margaret Landefeld\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Margaret Landefeld\\MyProjects\\AdventOfCode2021\\AdventOfCode\\obj\\",
+      "outputPath": "C:\\Users\\Margaret Landefeld\\MyProjects\\AdventOfCode2021\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
